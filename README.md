@@ -1,4 +1,5 @@
-<h1 style="justify-content:center">My name is Abdus Samee</h1>
+<h1>Hi👋, I am Abdus Samee</h1>
+<h2> A Web Development Enthusiast from Hyderabad, India</h2>
 
 - 🌱 I’m currently learning Javascript,Tailwind-CSS
 - 📫 How to reach me abdus007samee@gmail.com
