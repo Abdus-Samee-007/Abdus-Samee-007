@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdus Samee</h1>
 <h3 align="center">A passionate tech enthusiast from Hyderabad, India</h3>
 
-- 🌱 I’m currently learning **OpenCV,PostgreSQL**
+- 🌱 I’m currently learning **OpenCV, PostgreSQL, Prisma**
 
 - 📫 How to reach me **abdus007samee@gmail.com**
 
